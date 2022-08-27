@@ -1,12 +1,14 @@
-## Hi there 👋
+# Welcome
 
-<!--
+We started dzair.dev to create an awesome repo about all what is coded about Algeria around the Internet and to make a global Algerian web design first
 
-**Here are some ideas to get you started:**
+You are all welcome to contribute
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Projects
+
+* Algeria is Awesome (a curated list of all resources about tech in Algeria)
+* Web Site
+  - Blog
+  - Podcasts and YouTube videos
+* Forum in discourse with SEO
+* Freelance board that can be forked
