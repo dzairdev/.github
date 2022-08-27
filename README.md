@@ -1,1 +1,1 @@
-[READ ME](profile/README.md)
+[README](profile/README.md)
