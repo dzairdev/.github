@@ -11,4 +11,4 @@ You are all welcome to contribute
   - Blog
   - Podcasts and YouTube videos
 * Forum in discourse with SEO
-* Freelance board
+* Freelance board that can be forked
