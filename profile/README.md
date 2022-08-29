@@ -10,6 +10,6 @@ You are all welcome to contribute
 * Web Site
   - Blog
   - Podcasts and YouTube videos
-* Forum in discourse with SEO
+* Forum in discourse with SEO (needs money)
 * Freelance board that can be forked
 * Algerian Web Design with StoryBook
