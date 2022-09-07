@@ -13,3 +13,7 @@ You are all welcome to contribute
 * Forum in discourse with SEO forum.dzair.dev (needs money)
 * Freelance board that can be forked
 * Algerian Web Design with StoryBook
+
+## Suggestions
+
+* An Algerian crypto
